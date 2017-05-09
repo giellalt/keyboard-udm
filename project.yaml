@@ -32,4 +32,7 @@ targets:
     packageId: no.uit.giella.keyboards.udm
     bundleName: *bundleName
     icon: images/udm-icon.png
-  osx: *AppleID
+  osx:
+    <<: *AppleID
+    icon: images/udm-icon.png
+    codeSignId: "my-test-installer"
