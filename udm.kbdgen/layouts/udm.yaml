@@ -2,7 +2,9 @@ displayNames:
   en: Udmurt
   ru: Удмуртский язык
   udm: Удмурт кыл
+
 decimal: ','
+
 macOS:
   primary:
     layers:
@@ -59,6 +61,7 @@ macOS:
         B10: –
   deadKeys:
     cmd+alt: [',', '¯', '¸', 'ƒ', '˙', '˜', '˝']
+
 transforms:
   '-':
     ' ': '-'
@@ -551,6 +554,7 @@ transforms:
     O: Ơ
     u: ư
     U: Ư
+
 longpress:
   Е: Ё
   Ж: Ӝ
@@ -564,7 +568,7 @@ longpress:
   и: ӥ, і
   о: ӧ
   ч: ӵ
+
 keyNames:
   space: Пробел
   return: Ввод
-
