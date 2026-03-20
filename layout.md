@@ -1,13 +1,17 @@
-# Keyboard layout(s) for Udmurt
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Udmurt / Удмурт кыл
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
+## Android
 
-# Keyboard Layouts
+### Phone
 
-No keyboard layout defined yet!
+<iframe src="https://keyboard.giellalt.org/embed?kbd=udm&layout=udm&platform=android&variant=primary"></iframe>
+
+### Tablet
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=udm&layout=udm&platform=android&variant=tablet-600"></iframe>
